@@ -15,7 +15,7 @@ username: test@todoapp.com
 password: Testing
 
 
-### Installation
+### Installation Guide:
 - Use following command to get project repository in local machine: <br>
 ```git clone https://github.com/ammadmaddydev/todoapp.git ```
 
