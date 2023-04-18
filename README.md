@@ -10,7 +10,7 @@ This is the Simple Todo App project built on Python Django framework with the ne
 
 App can be tested using the provided credentials below, or users can create their own accounts to try it out.
 
-**Test Credentials:**
+**Test Credentials:**<br>
 username: test@todoapp.com<br>
 password: Testing
 
