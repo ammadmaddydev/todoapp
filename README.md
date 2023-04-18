@@ -6,7 +6,7 @@ This is the Simple Todo App project built on Python Django framework with the ne
 -*Django Version: 4.2*<br>
 -*Database: 10.3.38-MariaDB-log-cll-lve*<br>
 
-**Link: <a href='http://todoapp.ammadbaig.com/' target='_blank'>Live Demo</a>**
+**Link: <a href='http://todoapp.ammadbaig.com/' target="_blank">Live Demo</a>**
 
 App can be tested using the provided credentials below, or users can create their own accounts to try it out.
 
