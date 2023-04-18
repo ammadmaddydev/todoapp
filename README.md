@@ -16,23 +16,23 @@ password: Testing
 
 
 ### Installation
-- Use following command to get project repository in local machine:
+- Use following command to get project repository in local machine: <br>
 ```git clone https://github.com/ammadmaddydev/todoapp.git ```
 
-- Install Python and Django Framework in your project in order to run this app.
-**Python: https://www.python.org/downloads/**
-**Django: https://www.djangoproject.com/download/**
+- Install Python and Django Framework in your project in order to run this app.<br>
+**Python: https://www.python.org/downloads/** <br>
+**Django: https://www.djangoproject.com/download/** <br>
 
-- After setting up the above then create a new database and change credentials in ***settings.py*** file in ***todolist*** folder.
+- After setting up the above then create a new database and change credentials in ***settings.py*** file in ***todolist*** folder.<br>
 
-- Run the following command after the above step:
-```python manage.py makemigrations ```
-```python manage.py migrate ```
+- Run the following command after the above step: <br>
+```python manage.py makemigrations ``` <br>
+```python manage.py migrate ``` <br> 
 
-- Create Super User for accessing the admin site:
-```python manage.py createsuperuser ```
+- Create Super User for accessing the admin site: <br>
+```python manage.py createsuperuser ``` <br>
 
-- **All Done**, Just run the following command to get your app run:
-```python manage.py createsuperuser ```
+- **All Done**, Just run the following command to get your app run: <br>
+```python manage.py runserver ``` <br>
 
 ***Let's make some awesome code  <3 ;)***
