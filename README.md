@@ -2,16 +2,16 @@
 
 This is the Simple Todo App project built on Python Django framework with the necessary features including Login/Signup and Managing Tasks.
 
--*Python Version: 3.11*
--*Django Version: 4.2*
--*Database: 10.3.38-MariaDB-log-cll-lve*
+-*Python Version: 3.11*<br>
+-*Django Version: 4.2*<br>
+-*Database: 10.3.38-MariaDB-log-cll-lve*<br>
 
 **Link: [Demo Todo App Live](http://todoapp.ammadbaig.com/)**
 
 App can be tested using the provided credentials below, or users can create their own accounts to try it out.
 
 **Test Credentials:**
-username: test@todoapp.com
+username: test@todoapp.com<br>
 password: Testing
 
 
