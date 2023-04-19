@@ -32,7 +32,7 @@ password: Testing
 - Create Super User for accessing the admin site: <br>
 ```python manage.py createsuperuser ``` <br>
 
-- **All Done**, Just run the following command to get your app run: <br>
+- **All Done**, Just run one more command to get your app run: <br>
 ```python manage.py runserver ``` <br>
 
 ***Let's make some awesome code  <3 ;)***
